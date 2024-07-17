@@ -9,7 +9,38 @@ aliases: [false]
 stub: [true]
 peppypedia-old: [true]
 peppypedia-current: [true]
+experimental: [true]
 ---
+
+<head>
+ <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2c2f33;
+            color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        #con {
+            width: 80%;
+            max-width: 800px;
+            margin: 50px auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            overflow: hidden;
+        }
+        #header {
+            background-color: purple;
+            color: white;
+            padding: 10px 20px;
+            font-size: 24.5;
+            text-align: center;
+        }
+ </style>
+</head>
+<body>
+    <div id="con">
+        <div id="header">jhlee0133</div>
 
 <t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
 <link rel="stylesheet" href="../profile.css"></t>
@@ -53,3 +84,5 @@ South Korea</th></tr></tbody></table>
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   
 [Windows_Me](https://osu.ppy.sh/u/Windows_Me)
+
+</div>
