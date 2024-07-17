@@ -12,7 +12,6 @@ peppypedia-current: [true]
 experimental: [true]
 ---
 
-<head>
  <style>
         body {
             font-family: Arial, sans-serif;
@@ -37,7 +36,7 @@ experimental: [true]
             text-align: center;
         }
  </style>
-</head>
+ 
 <body>
     <div id="con">
         <div id="header">jhlee0133</div>
